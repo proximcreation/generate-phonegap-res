@@ -3,13 +3,13 @@ A shell script to generate icons and screens fro a color and a png image. Simple
 (depends on [imagemagick](http://www.imagemagick.org/script/binary-releases.php))
 
 # Usage
-1. put the screen in the "www" folder of your phonegap generated app.
-2. chmod the script :
+ - put the screen in the "www" folder of your phonegap generated app.
+ - chmod the script :
 ```
 chmod 755 generate-res.sh
 ```
-3. put a "icon.png" square image in the "www" folder of your phonegap generated app.
-4. launch the script !
+ - put a "icon.png" square image in the "www" folder of your phonegap generated app.
+ - launch the script !
 ```
 ./generate-res.sh <color> <gravity>
 ```
