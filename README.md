@@ -21,4 +21,5 @@ ex :
 more "gravity" values [here](http://www.imagemagick.org/script/command-line-options.php#gravity)
 
 # Note
-This script generate files named and located as defined in the default config.xml of the phonegap generated tree.
+ - This script generate files named and located as defined in the default config.xml of the phonegap generated tree.
+ - For screens, the icon size is half of the biggest dimension (ex : if the screen is 800x600, the printed icon is 400x400)
